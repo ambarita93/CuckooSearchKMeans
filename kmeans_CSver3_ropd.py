@@ -259,8 +259,6 @@ for data in hasil_susun_ulang:
 
 '''
 selanjutnya masuk ke cs untuk setiap kandidat[i], i=1,2,3,...
-
-semangat Cuckoo !!!!1111!!!!
 '''
 
 def Levy_flight():
@@ -559,8 +557,6 @@ for indeks,data in enumerate(kandidat):
                 else:
                     nest[k_pa],f_best[k_pa]=emptyit(nest[k_pa],t_depot,f_value[0])
                     
-    
-                #nest[i,:]=s
                 
                 # = fobj(nest[k_pa])
                 #fbest[i]=fobj(s)
