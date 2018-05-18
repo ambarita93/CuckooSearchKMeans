@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Apr 19 22:41:09 2018
-
+# aku coba tambahkan di sini: tes.
 @author: Toshiba
 """
 '''
